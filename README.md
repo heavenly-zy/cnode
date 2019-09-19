@@ -1,6 +1,15 @@
 # cnode
 
->一个用来练手的Vue项目
+>一个用来练手的Vue项目，仿cnode社区
+
+用到的技术栈有：
+
+[Vue](https://cn.vuejs.org/)
+
+[Vue-Router](https://router.vuejs.org/zh-cn/)
+
+[Axios](https://github.com/axios/axios)
+
 
 ## Project setup
 ```
