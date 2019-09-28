@@ -146,7 +146,7 @@ li span {
   line-height: 30px;
 }
 .allcount {
-  min-width: 70px;
+  min-width: 80px;
   display: inline-block;
   text-align: center;
   font-size: 12px;
@@ -190,7 +190,7 @@ li span {
   font-size: 12px;
 }
 .topbar {
-  height: 40px;
+  min-height: 40px;
   background-color: #f5f5f5;
 }
 .topbar span {
