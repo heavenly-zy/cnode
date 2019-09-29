@@ -133,7 +133,7 @@ export default {
   color: #666;
   text-decoration: none;
 }
-#reply span {
+#reply span:not(:last-child) {
   font-size: 13px;
   color: #666;
   text-decoration: none;
@@ -154,7 +154,10 @@ export default {
   align-items: center;
 }
 .replyUP {
-  margin-right: 80px;
+  margin-left: auto;
+}
+.replyUP span {
+  font-size: 13px;
 }
 
 .loading {
